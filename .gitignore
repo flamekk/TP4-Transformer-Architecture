@@ -1,0 +1,30 @@
+
+# Python environments
+.venv/
+venv/
+transformer_env/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model checkpoints
+*.pt
+*.pth
+*.ckpt
+
+# Dataset files
+data/*
+!data/README.md
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+
+# Local corpus
+corpus.txt
