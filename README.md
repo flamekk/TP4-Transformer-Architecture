@@ -2,11 +2,15 @@
 
 <p align="center">
   <strong>Étude, implémentation et expérimentation des architectures séquentielles avec PyTorch</strong>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-Deep%20Learning-ee4c2c?logo=pytorch" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Hugging%20Face-Transformers-yellow?logo=huggingface" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Status-Completed-success" alt="Status">
 </p>
 
-&#x20;\<p align="center">   \<img src="[https://img.shields.io/badge/Python-3.10%2B-blue?logo=python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)" alt="Python">   \<img src="[https://img.shields.io/badge/PyTorch-Deep%20Learning-ee4c2c?logo=pytorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-ee4c2c?logo=pytorch)" alt="PyTorch">   \<img src="[https://img.shields.io/badge/Hugging%20Face-Transformers-yellow?logo=huggingface](https://img.shields.io/badge/Hugging%20Face-Transformers-yellow?logo=huggingface)" alt="Hugging Face">   \<img src="[https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)" alt="Jupyter">   \<img src="[https://img.shields.io/badge/Status-Completed-success](https://img.shields.io/badge/Status-Completed-success)" alt="Status"> \</p>
 
----
 
 ## 1. Présentation du projet
 
